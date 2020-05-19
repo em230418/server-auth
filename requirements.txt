@@ -1,3 +1,5 @@
 # generated from manifests external_dependencies
 python-ldap
 zxcvbn
+# auth_signup_verify_email
+email_validator
